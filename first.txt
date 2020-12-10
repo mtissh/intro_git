@@ -1,2 +1,6 @@
 Git基本、やる
 基本のワークフローを覚える
+
+
+git add
+git commit
