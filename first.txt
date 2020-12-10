@@ -5,3 +5,4 @@ Git基本、やる
 git add
 git commit
 git remove
+git status
